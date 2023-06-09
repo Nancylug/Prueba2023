@@ -1,0 +1,17 @@
+Definir las carpetas
+estructura
+trello
+scrum master
+------------------------------
+definir w y h en css aparte si las imagenes no son del mismo tamaño
+
+en ccs 
+carousel{
+height=95%
+}
+
+carousel-inner .carousel-item img{
+heifht:800px
+
+}
+offset classes para alinear
